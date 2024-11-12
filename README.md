@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Learning
 - 📫 How to reach me Ranganath.Vijay@gmail.com
 - 😄 Pronouns: Ranga
-- ⚡ Fun fact: I can paint and Sing for FUN
+- ⚡ Fun fact: I can Paint and Sing for FUN
 
 <!---
 RanShell/RanShell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
